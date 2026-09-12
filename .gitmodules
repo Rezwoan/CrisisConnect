@@ -1,0 +1,6 @@
+[submodule "CrisisConnect-Backend"]
+	path = CrisisConnect-Backend
+	url = https://github.com/Rezwoan/CrisisConnect-Backend.git
+[submodule "crisisconnect-frontend"]
+	path = crisisconnect-frontend
+	url = https://github.com/Rezwoan/CrisisConnect-Frontend.git
