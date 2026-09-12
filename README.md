@@ -54,4 +54,3 @@ login/registration flow: **NGO**, **Admin**, **Volunteer**, **Donor**.
   and donations against the dev database (see the file's docstring for
   usage; requires `psycopg2-binary`).
 - `db_backups/` — local Postgres dumps.
-- `Final Project - Defense Guide.pdf` — course defense guide.
